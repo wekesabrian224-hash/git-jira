@@ -4,7 +4,7 @@ function Projects() {
     {
       title: "Student Course Registration",
       description:
-        "A web application that allows students to browse and register for courses.",
+        "A web application that allows students to browse and register for courses effectively.",
       technology: "React, JavaScript, CSS",
     },
 
