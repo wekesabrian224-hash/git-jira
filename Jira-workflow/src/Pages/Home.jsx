@@ -1,3 +1,4 @@
+import "./Home.css"
 function Home() {
   const projects = [
     { name: "Habit Garden", description: "A garden themed habit tracker built with react" },

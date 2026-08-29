@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: gainsboro;
+  font-family: Georgia, serif;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  border-bottom: 2px solid darkred;
+}
+
+header h1 {
+  color: crimson;
+  font-size: 48px;
+}
+
+nav {
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: crimson;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 20px;
+}
+
+section {
+  text-align: center;
+  padding: 20px;
+}
+
+section div {
+  border: 2px solid darkred;
+  background-color: maroon;
+  padding: 15px;
+  margin: 15px auto;
+  max-width: 400px;
+}
