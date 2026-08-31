@@ -1,9 +1,9 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import Home from "./Pages/Home.jsx";
+import About from "./Pages/About.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <Home />
+    <About />
   </StrictMode>,
 );
